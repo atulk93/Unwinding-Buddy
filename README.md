@@ -17,4 +17,6 @@ The script uses a countdown timer (default: 20 minutes) and displays a popup whe
 ## Installation
  
 1. Clone the repository:
-   
+   ```bash
+   git clone https://github.com/atulk93/Unwinding-Buddy.git
+   ```
