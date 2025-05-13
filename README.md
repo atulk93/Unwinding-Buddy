@@ -20,3 +20,23 @@ The script uses a countdown timer (default: 20 minutes) and displays a popup whe
    ```bash
    git clone https://github.com/atulk93/Unwinding-Buddy.git
    ```
+## Auto Start on Boot
+
+You can add this script to Task Scheduler or the Startup folder to make sure it runs automatically when your system boots.
+
+## Customization
+
+You can tweak:
+- Break intervals
+- Font size and style
+- Popup text and colors
+- Behavior after the popup is closed
+
+## Screenshot
+
+## Contributing
+
+Contributions are welcome! Open issues or submit pull requests to enhance functionality or design.
+
+## Author
+Atul Kumar Jha
